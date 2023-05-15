@@ -1,6 +1,6 @@
 nome = "Vitor Lameirão"
 
-nome2 = "Vitor dos Anjos"
+nome2 = "Otávio Dias"
 
 nome2 = nome
 
